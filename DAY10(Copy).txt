@@ -1,0 +1,10 @@
+Day1:Basics of python
+Day2:Datatypes and variables
+Day3:Control statements
+Day4:Functions
+Day5:List
+Day6:String
+Day7:File handling
+Day8:Revising functions
+Day9:Pattern programs
+Day10:Dictionaries
