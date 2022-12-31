@@ -1,0 +1,7 @@
+fo=open(r"D:\PYTHONPRACTICE65\DAY9\DAY.txt","w+")
+inpStr=input('Enter text:')
+fo.write(inpStr)
+inpStr=input('Enter text:')
+fo.write(inpStr)
+fo.close()
+print('Temp Written to File')
